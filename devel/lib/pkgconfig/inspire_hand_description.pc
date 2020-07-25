@@ -1,0 +1,8 @@
+prefix=/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel
+
+Name: inspire_hand_description
+Description: Description of inspire_hand_description
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel/lib 
+Requires: 

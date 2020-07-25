@@ -1,0 +1,8 @@
+prefix=/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel
+
+Name: yumi_sign_language_robot_control
+Description: Description of yumi_sign_language_robot_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel/lib 
+Requires: 

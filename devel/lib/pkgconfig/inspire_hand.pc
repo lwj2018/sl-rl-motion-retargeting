@@ -1,0 +1,8 @@
+prefix=/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel
+
+Name: inspire_hand
+Description: Description of inspire_hand
+Version: 1.0.0
+Cflags: -I/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel/include -I/home/liweijie/projects/sl-rl-motion-retargeting-ws/src/inspire_hand_driver/include
+Libs: -L/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel/lib 
+Requires: roscpp serial tf

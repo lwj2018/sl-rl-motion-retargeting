@@ -1,0 +1,8 @@
+prefix=/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel
+
+Name: yumi_control
+Description: Description of yumi_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel/lib 
+Requires: 

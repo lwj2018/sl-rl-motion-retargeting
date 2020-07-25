@@ -1,0 +1,8 @@
+prefix=/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel
+
+Name: yumi_collision_checking
+Description: Description of yumi_collision_checking
+Version: 0.0.0
+Cflags: -I/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel/include
+Libs: -L/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel/lib 
+Requires: 

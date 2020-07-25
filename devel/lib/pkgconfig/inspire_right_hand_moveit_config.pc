@@ -1,0 +1,8 @@
+prefix=/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel
+
+Name: inspire_right_hand_moveit_config
+Description: Description of inspire_right_hand_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/liweijie/projects/sl-rl-motion-retargeting-ws/devel/lib 
+Requires: 
